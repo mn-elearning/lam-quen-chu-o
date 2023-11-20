@@ -1,0 +1,2 @@
+(function(){var loadHandler=window['sl_{98319450-B5E3-4C10-BE0E-486E7D9455C2}'];loadHandler&&loadHandler(9, '<div id="spr0_2b83b0"><div id="spr1_2b83b0" class="kern slide"><img id="img1_2b83b0" src="data/img25.png" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_2b83b0" class="kern slide"><div id="spr3_2b83b0" style="left:132px;top:29px;"><img id="img0_2b83b0" src="data/img24.png" width="554" height="266" alt="Trò chơi: \
+Nghe thấu đoán tài"/></div></div></div>', '{"s":[]}');})();
